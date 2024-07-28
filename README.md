@@ -68,6 +68,9 @@ Make sure the `my_model/` directory contains `model.json` and `metadata.json` do
    
    ```arduino
    http://localhost:5500
+   ```
+
+   Note: The esp32 code is set up to handle "up" and "down" commands. If your trained model uses different labels, you will need to adjust the ESP32 code accordingly.
 
 
 
