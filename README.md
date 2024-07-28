@@ -46,7 +46,7 @@ Ensure your `index.html` is properly set up to load the Teachable Machine model.
 
 ### 5. Teachable Machine Model
 
-Make sure the `my_model/` directory contains `model.json` and `metadata.json` downloaded from Teachable Machine. These files are necessary for your Teachable Machine model.
+Make sure the `my_model/` directory contains `model.json` and `metadata.json` downloaded from Teachable Machine after training the model. These files are necessary for your Teachable Machine model.
 
 ## Run the Project
 
